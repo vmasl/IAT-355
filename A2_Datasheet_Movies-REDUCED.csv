@@ -1,4 +1,4 @@
-Box-office Rank,Title,Lifetime Gross,Year,Genre,Country,Director,Company,imdb rating,RT critic,RT general
+Box-office Rank,Title,Lifetime_Gross,Year,Genre,Country,Director,Company,imdb_rating,RT_critic,RT_general
 1,Avatar,2847246203,2009,"Action, Adventure, Fantasy",USA,James Cameron,20th Century Fox,7.8,,
 2,Avengers: Endgame,2797501328,2019,"Action, Adventure, Drama",USA,Russo Brothers,Marvel Studios,8.4,,
 3,Titanic,2201647264,1997,"Drama, Romance",USA,James Cameron,"Paramount Pictures,20th Century Fox",7.8,,
